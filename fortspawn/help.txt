@@ -1,0 +1,50 @@
+﻿"Phrases"
+{
+	"Base Comm"
+	{
+		"ru"		"Базовые команды"
+		"en"		"Base Comm"
+	}
+
+	"comm1"
+	{
+		ru "- Главное меню: !menu"
+		en "- Main Menu: !menu"
+	}
+
+	"comm2"
+	{
+		ru "- Покупки: !b либо [Shift + E]"
+		en "- Buy Menu: !b or [Shift + E]"
+	}
+
+	"comm3"
+	{
+		ru "- Стройка: !f, !fs либо [CTRL + E]"
+		en "- Build Menu: !f, !fs or [CTRL + E]"
+	}
+
+	"comm4"
+	{
+		ru "- Радио: !radio"
+		en "- Radio: !radio"
+	}
+
+	"comm5"
+	{
+		ru "- Разное: !help, !lang"
+		en "- Other: !help, !lang"
+	}
+
+	"Credits"
+	{
+		"ru"		"Авторы"
+		"en"		"Credits"
+	}
+
+	"author"
+	{
+		"ru" "Автор: Xekep"
+		"en" "Author: Xekep"
+	}
+}

@@ -1,0 +1,26 @@
+﻿"Phrases"
+{
+	"Rules"
+	{
+		"ru"		"Правила сервера"
+		"en"		"Rules"
+	}
+
+	"Rule1"
+	{
+		"ru"		"Правило 1: Не оскорбляем друг друга."
+		"en"		"Rule 1: Do not insult one another."
+	}
+
+	"Rule2"
+	{
+		"ru"		"Правило 2: Не удаляем чужие объекты не согласовав это с теми кто их поставил."
+		"en"		"Rule 2: Do not remove the spawn objects without coordinating it with those who installed them."
+	}
+
+	"Rule3"
+	{
+		"ru"		"Правило 3: Не стреляем по своим!"
+		"en"		"Rule 3: Do not shoot on teammate!"
+	}
+}

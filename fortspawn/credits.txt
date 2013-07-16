@@ -1,0 +1,14 @@
+﻿"Phrases"
+{
+	"ShowSite"
+	{
+		"ru"		"Открыть сайт"
+		"en"		"Show Site"
+	}
+
+	"Site"
+	{
+		"ru"		"Сайт: http://www.zone66.su"
+		"en"		"Site: http://www.zone66.su"
+	}
+}

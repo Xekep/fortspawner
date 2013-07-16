@@ -1,0 +1,8 @@
+﻿"Phrases"
+{
+	"At the cursor position is nothing."
+	{
+		"ru"		"На позиции курсора ничего нет."
+		"en"		"At the cursor position is nothing."
+	}
+}

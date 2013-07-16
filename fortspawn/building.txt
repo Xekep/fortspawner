@@ -1,0 +1,20 @@
+﻿"Phrases"
+{
+	"Controls"
+	{
+		"ru"		"Управление"
+		"en"		"Controls"
+	}
+
+	"Objects"
+	{
+		"ru"		"Предметы"
+		"en"		"Objects"
+	}
+
+	"Help"
+	{
+		"ru"		"Справка"
+		"en"		"Help"
+	}
+}

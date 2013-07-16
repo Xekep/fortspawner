@@ -1,0 +1,38 @@
+﻿"Phrases"
+{
+	"FortSystem"
+	{
+		"ru"		"FortSystem, Объекты: %i/%i."
+		"en"		"FortSystem, objects: %i/%i."
+	}
+
+	"Building"
+	{
+		ru "Строительство"
+		en "Building"
+	}
+
+	"Buying"
+	{
+		ru "Покупки"
+		en "Buying"
+	}
+
+	"Character Select"
+	{
+		ru "Смена персонажа"
+		en "Character Select"
+	}
+
+	"Rules"
+	{
+		ru "Правила"
+		en "Rules"
+	}
+
+	"Language"
+	{
+		ru "Язык"
+		en "Language"
+	}
+}

@@ -1,0 +1,524 @@
+﻿"Phrases"
+{
+	"List my objects"
+	{
+		"ru"		"Список моих объектов"
+		"en"		"List my objects"
+	}
+	"Remove object"
+	{
+		"ru"		"Удалить объект"
+		"en"		"Remove object"
+	}
+
+	"What to Remove?"
+	{
+		"ru"		"Что нужно удалить"
+		"en"		"What to Remove?"
+	}
+
+	"Looking Object"
+	{
+		"ru"		"Объект под курсором"
+		"en"		"Looking Object"
+	}
+
+	"First create object"
+	{
+		"ru"		"Первый	 созданный объект"
+		"en"		"First created object"
+	}
+
+	"Last create dobject"
+	{
+		"ru"		"Последний созданный объект"
+		"en"		"Last created object"
+	}
+
+	"All your spawned objects"
+	{
+		"ru"		"Все созданные вами объекты"
+		"en"		"All your spawned objects"
+	}
+
+	"Are you sure?"
+	{
+		"ru"		"Вы уверены, что хотите удалить все свои объекты?"
+		"en"		"Are you sure that you want to delete all your spawned objects?"
+	}
+
+	"Rotate"
+	{
+		"ru"		"Повернуть"
+		"en"		"Rotate"
+	}
+
+	"Rotate_axis"
+	{
+		"ru"		"На %s° по оси %s"
+		"en"		"On %s° on %s axis"
+	}
+
+	"onclockwise"
+	{
+		"ru"		"На %s° по часовой"
+		"en"		"On %s° on clockwise"
+	}
+
+	"oncounterclockwise"
+	{
+		"ru"		"На %s° против часовой"
+		"en"		"On %s° on counterclockwise"
+	}
+
+	"Move"
+	{
+		"ru"		"Передвинуть"
+		"en"		"Move"
+	}
+
+	"Grab"
+	{
+		"ru"		"Захватить | Отпустить"
+		"en"		"Grab | Release"
+	}
+
+	"You catch object"
+	{
+		"en"		"You catch object."
+		"ru"		"Вы захватили объект."
+	}
+
+	"You are no longer grabbing an object"
+	{
+		"en"		"You are no longer grabbing an object."
+		"ru"		"Вы больше не держите этот объект."
+	}
+
+	"Other"
+	{
+		"ru"		"Прочее"
+		"en"		"Other"
+	}
+
+	"Info object"
+	{
+		"ru"		"Информация об объекте."
+		"en"		"Info object"
+	}
+
+	"he object created Not players"
+	{
+		"ru"		"Объект создан не игроками, либо хозяин объекта ушел."
+		"en"		"he object created Not players, Or owner of the object was gone."
+	}
+
+	"Object of the player"
+	{
+		"ru"		"Объект игрока %s."
+		"en"		"Object of the player: %s."
+	}
+
+	"Player delete your object"
+	{
+		"ru"		"Игрок %s удалил один из ваших объектов. Теперь у вас осталось объектов: %i."
+		"en"		"Player %s delete one of your object. You now have %i objects."
+	}
+
+	"Statistics Panel"
+	{
+		"ru"		"Панель статистики"
+		"en"		"Statistics Panel"
+	}
+
+	"* Objects: *"
+	{
+		"ru"		"* Объекты: *"
+		"en"		"* Objects: *"
+	}
+
+	"* Deleted Other Objects: *"
+	{
+		"ru"		"* Удалено чужих объектов: *"
+		"en"		"* Deleted Other Objects: *"
+	}
+
+	"Cannot remove entity over rcon"
+	{
+		"ru"		"Нельзя удалить объект через rcon/консоль сервера."
+		"en"		"Cannot remove entity over rcon/server console"
+	}
+
+	"Object removed"
+	{
+		"ru"		"Объект удален. Теперь у вас осталось объектов: %i."
+		"en"		"Object removed. You now have %i objects."
+	}
+
+	"Not a valid object."
+	{
+		"ru" "Не действующий объект."
+		"en" "Not a valid object."
+	}
+
+	"You deleted object"
+	{
+		"ru" "Вы удалили объект игрока %s."
+		"en" "You deleted object %s."
+	}
+
+	"Copy | Paste objects"
+	{
+		"ru"		"Копирование | Вставка объектов"
+		"en"		"Copy | Paste objects"
+	}
+
+	"Copy"
+	{
+		"ru"		"Копирование"
+		"en"		"Copy"
+	}
+
+	"Paste"
+	{
+		"ru"		"Вставка"
+		"en"		"Paste"
+	}
+
+	"Object Copied"
+	{
+		"ru" "Объект скопирован."
+		"en" "Object Copied."
+	}
+
+	"Object Put"
+	{
+		"ru" "Объект вставлен."
+		"en" "Object Put."
+	}
+
+	"You did not copy the objects"
+	{
+		"en" "You did not copy the objects."
+		"ru" "Вы не копировали объекты."
+	}
+
+	"Copied Object Broken"
+	{
+		"en" "Copied Object Broken."
+		"ru" "Копируемый объект сломан."
+	}
+
+	"Object not suitable for CopyPaste"
+	{
+		"ru" "Объект не подходит для копирования."
+		"en" "Object not suitable for CopyPaste."
+	}
+
+	"Save | Load objects"
+	{
+		"ru"		"Сохранение | Загрузка объектов"
+		"en"		"Save | Load objects"
+	}
+
+	"Save"
+	{
+		"ru"		"Сохранение"
+		"en"		"Save"
+	}
+
+	"Load"
+	{
+		"ru"		"Загрузка"
+		"en"		"Load"
+	}
+
+	"Eraseslot"
+	{
+		"ru"		"Очистка слотов"
+		"en"		"Erase slot"
+	}
+
+	"Slot"
+	{
+		"ru"		"Слот %i"
+		"en"		"Slot %i"
+	}
+
+	"Objects saved"
+	{
+		"ru"		"Объекты сохранены в слот %i"
+		"en"		"Objects saved in slot %i"
+	}
+
+	"Succesfully loaded"
+	{
+		"ru"		"Успешно загружены данные из слота %i"
+		"en"		"Succesfully loaded the map data from slot %i"
+	}
+
+	"Slot saves at number"
+	{
+		"ru"		"Слот сохранений под номером %i успешно очищен."
+		"en"		"Slot saves at number %i successfully cleared."
+	}
+
+	"Paint objects"
+	{
+		"ru"		"Покраска объектов"
+		"en"		"Paint objects"
+	}
+
+	"Del Paint"
+	{
+		"ru"		"Снять краску"
+		"en"		"Del Paint"
+	}
+
+	"White"
+	{
+		"ru"		"Белый"
+		"en"		"White"
+	}
+
+	"Black"
+	{
+		"ru"		"Черный"
+		"en"		"Black"
+	}
+
+	"Red"
+	{
+		"ru"		"Красный"
+		"en"		"Red"
+	}
+
+	"Green"
+	{
+		"ru"		"Зеленый"
+		"en"		"Green"
+	}
+
+	"Blue"
+	{
+		"ru"		"Синий"
+		"en"		"Blue"
+	}
+
+	"Yellow"
+	{
+		"ru"		"Желтый"
+		"en"		"Yellow"
+	}
+
+	"Purple"
+	{
+		"ru"		"Пурпурный"
+		"en"		"Purple"
+	}
+
+	"Cyan"
+	{
+		"ru"		"Темно-синий"
+		"en"		"Cyan"
+	}
+
+	"Orange"
+	{
+		"ru"		"Оранжевый"
+		"en"		"Orange"
+	}
+
+	"Pink"
+	{
+		"ru"		"Розовый"
+		"en"		"Pink"
+	}
+
+	"Silver"
+	{
+		"ru"		"Серебристый"
+		"en"		"Silver"
+	}
+
+	"Gold"
+	{
+		"ru"		"Золотой"
+		"en"		"Gold"
+	}
+
+	"Olive"
+	{
+		"ru"		"Оливковый"
+		"en"		"Olive"
+	}
+
+	"Lime"
+	{
+		"ru"		"Желто-зеленый"
+		"en"		"Lime"
+	}
+
+	"Violet"
+	{
+		"ru"		"Фиолетовый"
+		"en"		"Violet"
+	}
+
+	"Light-Blue"
+	{
+		"ru"		"Голубой"
+		"en"		"Light-Blue"
+	}
+
+	"Chocolate"
+	{
+		"ru"		"Шоколадный"
+		"en"		"Chocolate"
+	}
+
+	"Saddlebrown"
+	{
+		"ru"		"Коричневой кожи"
+		"en"		"Saddlebrown"
+	}
+
+	"Indigo"
+	{
+		"ru"		"Индиго"
+		"en"		"Indigo"
+	}
+
+	"Ghostwhite"
+	{
+		"ru"		"Призрачно-белый"
+		"en"		"Ghostwhite"
+	}
+
+	"Thistle"
+	{
+		"ru"		"Чертополоха"
+		"en"		"Thistle"
+	}
+
+	"Steelblue"
+	{
+		"ru"		"Светло-стальной"
+		"en"		"Steelblue"
+	}
+
+	"Teal"
+	{
+		"ru"		"Зеленовато-голубой"
+		"en"		"Teal"
+	}
+
+	"Tan"
+	{
+		"ru"		"Желтовато-коричневый"
+		"en"		"Tan"
+	}
+
+	"Tomato"
+	{
+		"ru"		"Томатный"
+		"en"		"Tomato"
+	}
+
+	"Glow objects"
+	{
+		"ru"		"Аура объектов"
+		"en"		"Glow objects"
+	}
+
+	"Del Glow"
+	{
+		"ru"		"Снять ауру"
+		"en"		"Del Glow"
+	}
+
+	"Default"
+	{
+		"ru"		"Обычная"
+		"en"		"Default"
+	}
+
+	"Set Color only its object"
+	{
+		"en"		"Set Color only its object!"
+		"ru"		"Сменить цвет можно только своему обьекту!"
+	}
+
+	"You painted object in color"
+	{
+		"en"		"You painted object in %s color."
+		"ru"		"Вы покрасили объект в %s цвет."
+	}
+
+	"You del paint object"
+	{
+		"en"		"You del paint object."
+		"ru"		"Вы сняли с объекта краску."
+	}
+
+	"You painted object RGB"
+	{
+		"en"		"You painted object, R G B: %s %s %s"
+		"ru"		"Вы покрасили объект, R G B: %s %s %s"
+	}
+
+	"Object not suitable for Paint"
+	{
+		"en"		"Object not suitable for Paint"
+		"ru"		"Объект не подходит для покраски."
+	}
+
+
+	"Glow objects"
+	{
+		"ru"		"Аура объектов"
+		"en"		"Glow objects"
+	}
+
+	"Del glow"
+	{
+		"ru"		"Снять ауру"
+		"en"		"Del glow"
+	}
+
+	"Default"
+	{
+		"ru"		"Обычная"
+		"en"		"Default"
+	}
+
+	"Put glow only its object"
+	{
+		"en"		"Put glow only its object!"
+		"ru"		"Выставить ауру можно только своему обьекту!"
+	}
+
+	"You set glow object with color"
+	{
+		"en"		"You set glow object with %s color"
+		"ru"		"Вы выставили объекту ауру содержащую %s цвет"
+	}
+
+	"Object not suitable for Glow"
+	{
+		"en"		"Object not suitable for Glow"
+		"ru"		"Объект не подходит для аур."
+	}
+
+	"You del glow object"
+	{
+		"en"		"You del glow object"
+		"ru"		"Вы сняли с объекта ауру"
+	}
+
+	"You set glow object, R G B"
+	{
+		"en"		"You set glow object, R G B: %i %i %i"
+		"ru"		"Вы выставили объекту ауру, R G B: %i %i %i"
+	}
+}

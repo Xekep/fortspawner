@@ -1,0 +1,13 @@
+﻿"Phrases"
+{
+	"en"
+	{
+		"en"		"English"
+	}
+
+	"ru"
+	{
+		"ru"		"Русский"
+		"en"		"Russian"
+	}
+}

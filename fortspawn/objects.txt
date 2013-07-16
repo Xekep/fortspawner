@@ -1,0 +1,34 @@
+﻿"Phrases"
+{
+	"Most Used"
+	{
+		"ru"		"Часто используемые"
+		"en"		"Most Used"
+	}
+
+	"Fences | Walls | Barricades"
+	{
+		"ru"		"Заборы | Стены | Баррикады"
+		"en"		"Fences | Walls | Barricades"
+	}
+
+	"Vehicles"
+	{
+		"ru"		"Транспортные средства"
+		"en"		"Vehicles"
+	}
+
+	"Windows | Doors | Stairs"
+	{
+		"en"		"Windows | Doors | Stairs"
+		"ru"		"Окна | Двери | Лестницы"
+
+	}
+
+	"Decor"
+	{
+		"en"		"Decor"
+		"ru"		"Декор"
+
+	}
+}
